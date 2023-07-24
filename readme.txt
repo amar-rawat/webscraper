@@ -1,1 +1,1 @@
-hello this is a practice seccion
+this is a web scraper coded in python, which automatically extracts data from website.
